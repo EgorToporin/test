@@ -1,0 +1,7 @@
+user_input_fathername = str(input("имя отца "))
+user_input_mothername = str(input("имя матери "))
+user_input_sonname = str(input("имя сына "))
+user_input_national =str(input("национальность "))
+user_input_pet = str(input("домашний питомец "))
+user_input_hobby = str(input("есть ли хобби "))
+print(f"father name - {user_input_fathername}, my moms name - {user_input_mothername } , my name - {user_input_sonname} , national - {user_input_national} , pet - {user_input_pet} , my hobby - {user_input_hobby}")
