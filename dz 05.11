@@ -1,7 +1,0 @@
-user_input_fathername = str(input("имя отца "))
-user_input_mothername = str(input("имя матери "))
-user_input_sonname = str(input("имя сына "))
-user_input_national =str(input("национальность "))
-user_input_pet = str(input("домашний питомец "))
-user_input_hobby = str(input("есть ли хобби "))
-print(f"спасибо за анкету {user_input_fathername + user_input_mothername + user_input_sonname + user_input_national + user_input_pet + user_input_hobby}")
