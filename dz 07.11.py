@@ -1,6 +1,3 @@
-#import math 
-#result = ((6 + (8**2) + math.cos(math.pi))/(math.pi + (8**2)))
-#print(result) 4
 
 #import math 
 #result = ((32**2) + (6**4) - math.pi + 2 /(math.pi * 3) - (6**2) - math.cos(math.pi**2))
@@ -17,4 +14,3 @@
 #спросить по поводу скобок 
 
 #спросить по поводу гит хаба, куда оно все отправляеться?
-(  )(   )

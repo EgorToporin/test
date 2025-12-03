@@ -14,12 +14,14 @@
 
 
 
-h = int(input("напишите высоту: "))
-w = int(input("напишите ширину: "))
+# h = int(input("напишите высоту: "))
+# w = int(input("напишите ширину: "))
 
-print("*" * w)
+# print("*" * w)
 
-for _ in range(h - 2):
-    print("*" + " " * (w - 2) + "*")
+# for _ in range(h - 2):
+#     print("*" + " " * (w - 2) + "*")
 
-print("*" * w)
+# print("*" * w)
+
+
